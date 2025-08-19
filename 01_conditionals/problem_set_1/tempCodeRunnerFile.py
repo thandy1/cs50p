@@ -1,0 +1,1 @@
+    print(hours + minutes/60)
